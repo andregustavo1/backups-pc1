@@ -1,0 +1,64 @@
+System:
+System>Sound Control Panel>Comunication>Do Nothing
+Sound Icon>Sounds>No Sounds
+Notifications Off
+Focus assistant off
+Tablet off
+Multitask off; alt + tab> windowns only; all desktops
+Share experience off
+download updates on windows
+msconfig>boot>advanced>number of processor>all; service disable xbox services
+windows + r>gpedit.msc>administrative models>network>QoS>limit reservate bandwith: enable; 0
+powercfg.exe /hibernate off
+
+Personlazation:
+Colors>transparent effects off; black color on windows
+Lock screen> off
+hide news from search
+put taskbar on left and hide
+Notification area> turn system icons off> input indicator, action center
+right click taskbar> search> show search higlights off
+black wallpaper
+view>show desktop icons: off
+mouse> windows black
+
+microsoft edge:
+sigin
+Settings> layout: focus
+quick links: off
+show greeting: off
+content: off
+always show side bar: off
+
+Time and language:
+Region> Additional region> change data> format: portuguese(brasil)
+Language>Preferred languages>Enlgish>Options>Keyboards>US: Remove
+
+Privacy:
+All off
+
+restart windows
+
+disc cleanup
+all box
+more options>shadow: delete
+
+Update and secury:
+Delivery Optimization>off
+
+Others:
+settings>about>advanced system settings>system protection:off; rename computer name (Andre-PC)
+Ultimate performace: CMD>powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+Sleep and screen: never
+AMD Ryzen driver download
+Dissable PIN: Accounts>Sign-in options>Windows hello: off; Require sign-in: never; Windows hello PIN: remove; Netplwiz> "users must enter">off (use email password)
+control panel>uninstall program> turn windows features on or off>all .net frameworks>let windows decide
+xbox gamebar: off
+restauration>delete; disable
+
+donwload backups
+check windows update again
+
+task manager>more details>startup>all off except One drive
+
+restart
