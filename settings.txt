@@ -8,7 +8,6 @@ Multitask off; alt + tab> windowns only; all desktops
 Share experience off
 download updates on windows
 msconfig>boot>advanced>number of processor>all; service disable xbox services
-windows + r>gpedit.msc>administrative models>network>QoS>limit reservate bandwith: enable; 0
 powercfg.exe /hibernate off
 
 Personlazation:
@@ -23,7 +22,7 @@ view>show desktop icons: off
 mouse> windows black
 
 internet:
-remove net limit in group settings
+windows + r>gpedit.msc>administrative models>network>QoS>limit reservate bandwith: enable; 0
 dns 1.1.1.1 and 1.0.0.1
 1gb ethernet adapter options
 
@@ -62,3 +61,4 @@ task manager>more details>startup>all off except One drive
 
 
 restart
+
