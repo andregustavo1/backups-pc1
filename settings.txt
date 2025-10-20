@@ -22,13 +22,12 @@ black wallpaper
 view>show desktop icons: off
 mouse> windows black
 
-microsoft edge:
-sigin
-Settings> layout: focus
-quick links: off
-show greeting: off
-content: off
-always show side bar: off
+internet:
+remove net limit in group settings
+dns 1.1.1.1 and 1.0.0.1
+1gb ethernet adapter options
+
+disable windows defender
 
 Time and language:
 Region> Additional region> change data> format: portuguese(brasil)
@@ -60,5 +59,6 @@ donwload backups
 check windows update again
 
 task manager>more details>startup>all off except One drive
+
 
 restart
